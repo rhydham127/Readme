@@ -29,7 +29,9 @@ text
 
 ## 📫 Contact
 
-- **LinkedIn**: [linkedin.com/in/rhydhamsharma](rhydham-sharma-04355438a)
+- **LinkedIn**: [linkedin.com/in/rhydhamsharma](www.linkedin.com/in/
+rhydham-sharma-04355438a
+)
 - **Email**: rhydhamsharma109@gmail.com
 - **Location**: Pathankot, Punjab, India
 
